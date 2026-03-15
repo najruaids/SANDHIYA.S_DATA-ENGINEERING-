@@ -8,4 +8,4 @@ class Solution(object):
             prev2 = prev1
             prev1 = temp
 
-        return prev1
+        return prev1s
